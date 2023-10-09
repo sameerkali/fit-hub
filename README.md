@@ -1,4 +1,8 @@
-![image](https://github.com/sameerkali/fit-hub/assets/76611058/561d2221-6164-4916-95fd-cae089bfe61c)
+# gym-typescript
 
+Build a Complete Typescript React Fitness Application for Beginners
 
-![image](https://github.com/sameerkali/fit-hub/assets/76611058/296670b9-a604-4946-af37-995d48095826)
+Video: https://www.youtube.com/watch?v=I2NNxr3WPDo
+
+For all related questions and discussions about this project, check out the discord:
+https://discord.gg/2FfPeEk2mX
