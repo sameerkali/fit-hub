@@ -1,6 +1,8 @@
-## FitHub Landing Page
+## FitHub Landing Page  [Click me](https://fithub-kappa.vercel.app/).
+` FitHub is a straightforward and visually appealing landing page specifically crafted for gyms and fitness centers. It offers a pristine and efficient online representation, aiming to allure prospective clientele and exhibit the comprehensive range of amenities and services provided by the gym. `
 
-FitHub is a straightforward and visually appealing landing page specifically crafted for gyms and fitness centers. It offers a pristine and efficient online representation, aiming to allure prospective clientele and exhibit the comprehensive range of amenities and services provided by the gym.
+
+<img src="src/assets/docs.png" alt="image" width="auto" height="auto">
 
 [Image of FitHub landing page]
 
@@ -25,3 +27,6 @@ To use FitHub, simply create an account and select a template. Then, you can cus
 ### Conclusion
 
 FitHub is a powerful and easy-to-use landing page platform that can help you attract new customers, showcase your amenities and services, and build your brand. If you're looking for a way to create a professional and visually appealing online presence for your gym, FitHub is the perfect solution for you.
+
+
+make with ~~lust~~ love 💖 by @sameerkali
