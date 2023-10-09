@@ -1,8 +1,9 @@
 {
-  "name": "gym-typescript",
-  "private": true,
+  "name": "Fit-Hub",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
+  "author": "sameer faridi",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
