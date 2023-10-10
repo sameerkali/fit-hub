@@ -53,7 +53,8 @@ const Navbar = ({ isTopOfPage, selectedPage, setSelectedPage }: Props) => {
                     setSelectedPage={setSelectedPage}
                   />
                 </div>
-                <div className={`${flexBetween} gap-8`}>
+                <div className={`${flexBetween} gap-8 `}>
+                  <h1 className="animate-spin">😵‍💫</h1>
                   <p>Sign In</p>
                   <ActionButton setSelectedPage={setSelectedPage}>
                     Become a Member
